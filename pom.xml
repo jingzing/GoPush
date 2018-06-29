@@ -38,6 +38,7 @@
         <module>go-push-common</module>
         <module>go-push-adapter-sdk</module>
         <module>go-push-infos</module>
+        <module>jinggo-netty-udp-server</module>
     </modules>
 
     <profiles>
